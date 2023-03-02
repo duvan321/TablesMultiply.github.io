@@ -1,0 +1,28 @@
+ul {
+  list-style-type: none;
+  font-size: 2rem;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+.row {
+  display: flex;
+  justify-content: center;
+  background-color: cadetblue;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 25%;
+}
+
+input {
+  text-align: center;
+  color: red;
+}
+
+h3 {
+  color: green;
+}
