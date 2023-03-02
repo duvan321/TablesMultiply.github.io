@@ -18,14 +18,14 @@ test("renders two buttons", () => {
 
 test("the inputs for the start and end numbers must be empty", () => {
   render(<Components />);
-  const numeroDeInicio = screen.getByPlaceholderText(/# star/i);
-  const numeroDeFin = screen.getByPlaceholderText(/# end/i);
-  expect(numeroDeInicio.value).toBe("");
-  expect(numeroDeFin.value).toBe("");
+  const startnumber = screen.getByPlaceholderText(/# start/i);
+  const endNumber = screen.getByPlaceholderText(/# end/i);
+  expect(startnumber.value).toBe("");
+  expect(endNumber.value).toBe("");
 });
 test("the initial number entry should change", () => {
   render(<Components />);
-  const passwordInputEl = screen.getByPlaceholderText(/# star/i);
+  const passwordInputEl = screen.getByPlaceholderText(/# start/i);
   const tesvalue = "";
   fireEvent.change(passwordInputEl, {
     target: { value: tesvalue },

@@ -1,3 +1,7 @@
+body {
+  background-color: cadetblue;
+}
+
 ul {
   list-style-type: none;
   font-size: 2rem;

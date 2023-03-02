@@ -37,7 +37,7 @@ function TablesMultiply() {
           className="mb-2"
           type="number"
           id="startNumber"
-          placeholder="# star"
+          placeholder="# start"
           value={startNumber}
           onChange={(e) => setStartNumber(e.target.value)}
         />
