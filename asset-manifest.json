@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TablesMultiply.github.io/static/css/main.6d2a627a.css",
-    "main.js": "/TablesMultiply.github.io/static/js/main.cb055d74.js",
+    "main.css": "/TablesMultiply.github.io/static/css/main.e6956993.css",
+    "main.js": "/TablesMultiply.github.io/static/js/main.09258131.js",
     "static/js/787.ba0aef3f.chunk.js": "/TablesMultiply.github.io/static/js/787.ba0aef3f.chunk.js",
     "index.html": "/TablesMultiply.github.io/index.html",
-    "main.6d2a627a.css.map": "/TablesMultiply.github.io/static/css/main.6d2a627a.css.map",
-    "main.cb055d74.js.map": "/TablesMultiply.github.io/static/js/main.cb055d74.js.map",
+    "main.e6956993.css.map": "/TablesMultiply.github.io/static/css/main.e6956993.css.map",
+    "main.09258131.js.map": "/TablesMultiply.github.io/static/js/main.09258131.js.map",
     "787.ba0aef3f.chunk.js.map": "/TablesMultiply.github.io/static/js/787.ba0aef3f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d2a627a.css",
-    "static/js/main.cb055d74.js"
+    "static/css/main.e6956993.css",
+    "static/js/main.09258131.js"
   ]
 }
